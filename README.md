@@ -1,5 +1,5 @@
 # Github issues tech challenge
-Your task is to replicate the Github issues page for the React repo.
+Your task is to create a copy of the Github issues page for the React repo.
 
 https://github.com/facebook/react/issues
 
