@@ -1,6 +1,4 @@
-# github-issues-tech-challenge
-Task used to assess candidates
-
+# Github issues techchallenge
 Your task is to replicate the Github issues page for the React repo.
 
 https://github.com/facebook/react/issues
