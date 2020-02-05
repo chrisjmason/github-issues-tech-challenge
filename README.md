@@ -7,6 +7,8 @@ We are not expecting the whole page to be built and so you can concentrate on wh
 
 You will have around 45mins-1hour to get as far as you can.
 
+Please create a branch off of master to work on and push your changes at the end of the challenge.
+
 ## Tech
 
 We have provided a skeleton React application (create-react-app) which you can clone. 
@@ -19,7 +21,7 @@ You can import any libraries you see fit although the more heavy lifting you do 
 - Your technical competence
 - Your use of best practices
 - Your ability to explain what you are doing
-- Your elaboration on techniques/concepts that you don’t have enough time to implement
+- Your elaboration on techniques/concepts that you don’t have enough time to implement in this session
 
 ## Reference
 API to retrieve issues: https://developer.github.com/v3/issues/#list-issues-for-a-repository
