@@ -3,7 +3,7 @@ Your task is to create a copy of the Github issues page for the React repo.
 
 https://github.com/facebook/react/issues
 
-We are not expecting the whole page to be built and so you can concentrate on whichever parts you think would best demonstrate your skills.
+We are not expecting the whole page to be built and we use the same task for every level of developer so concentrate on whichever parts you think would best demonstrate your skills.
 
 You will have around 45mins-1hour to get as far as you can.
 
