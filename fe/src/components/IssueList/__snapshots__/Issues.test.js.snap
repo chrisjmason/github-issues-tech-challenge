@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout matches snapshot 1`] = `
+<ul
+  class="IssueList"
+  data-testid="issue-list"
+>
+  <li
+    class="IssueListItem"
+  >
+    <div>
+      Bug: React App with router not opening on ios 13.4.x
+    </div>
+    <div>
+      opened 5 hours ago by nvnvenki
+    </div>
+    <span>
+      #18699
+    </span>
+  </li>
+  <li
+    class="IssueListItem"
+  >
+    <div>
+      Bug: anther bugs
+    </div>
+    <div>
+      opened 5 hours ago by nvnvenki
+    </div>
+    <span>
+      #18620
+    </span>
+  </li>
+</ul>
+`;

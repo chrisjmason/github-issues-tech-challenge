@@ -1,0 +1,10 @@
+.IssueList {
+  display: block;
+  border: 1px solid green;
+}
+
+.IssueListItem {
+  margin: 10px 0;
+  display: block;
+  background-color: lightgray;
+}
